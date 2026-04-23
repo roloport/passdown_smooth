@@ -1,0 +1,8 @@
+# Ignore OS/editor noise
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+
+# Ignore generated local logs
+*.log
