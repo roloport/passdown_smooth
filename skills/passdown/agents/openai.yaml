@@ -1,0 +1,3 @@
+display_name: Passdown
+short_description: Generate fab-safe handover packs from controlled SOPs with strict citations and dual approval gates.
+default_prompt: Build a role-scoped semiconductor fab handover pack from controlled SOP docs with line-level citations, SME+QA gates, and stale-block handling.
